@@ -1,0 +1,22 @@
+Saida do teste/conferir_equacoes_3_3.py - rodado em 27/09/2026 (Python 3.11, sem internet).
+Mesmo resultado registrado em 23/09/2026.
+
+=== 1 e 2: casos resolvidos a mao e varredura ===
+Simulacoes da varredura: 15744
+Resultados: {'sem_energia_compensavel': 384, 'payback_acima_da_vida_util': 320, 'normal': 13433, 'sem_arranjo_valido': 1607}
+Divergencias: 0
+
+=== 3: erros plantados ===
+  DETECTADO: regra antiga do minimo (em energia) (14201 divergencias)
+  DETECTADO: minimo ignorado (3756 divergencias)
+  DETECTADO: HSP pela media simples (13443 divergencias)
+  DETECTADO: ano de 360 dias (13438 divergencias)
+  DETECTADO: Fio B sem o percentual (13484 divergencias)
+  DETECTADO: servico fixo esquecido abaixo de 2 kWp (1857 divergencias)
+  DETECTADO: payback em anos no lugar de meses (13758 divergencias)
+  DETECTADO: geracao sem a TD (13498 divergencias)
+  DETECTADO: modulos arredondados para baixo (12998 divergencias)
+  DETECTADO: inversor arredondado para baixo (11902 divergencias)
+Erros plantados detectados: 10 de 10
+
+RESULTADO: OK
