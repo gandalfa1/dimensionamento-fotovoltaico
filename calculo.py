@@ -1128,7 +1128,7 @@ def pnom_ratio(potencia_instalada_kwp, potencia_inversor_kw):
 # escolha e pouco sensivel, o que e exatamente o que se quer de uma
 # premissa - ela nao esta sustentando o resultado sozinha.
 TEMP_STC_C = 25.0
-TEMP_MINIMA_PROJETO_C = 0.0      # ambiente, condicao mais fria de projeto
+TEMP_MINIMA_PROJETO_C = 0.0      # celula no frio (adotada; secao 3.4 do artigo)
 TEMP_MAXIMA_CELULA_C = 70.0      # celula, condicao mais quente de operacao
 
 
