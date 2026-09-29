@@ -74,3 +74,11 @@ Os comentários do código usam a numeração de equações do desenvolvimento, 
 - **Fio B:** ANEEL, Portal de Dados Abertos, conjunto "Componentes Tarifárias" (tarifas vigentes em 22/09/2026, sem impostos).
 - **Preços:** Greener, Estudo Estratégico – Mercado Fotovoltaico, março de 2026 (preços de janeiro de 2026).
 - **Módulos e inversores:** folhas de dados dos fabricantes, citadas no artigo.
+
+## Licença
+
+Copyright © 2026 Brenda Morel Bueno Ferreira
+
+Este programa é software livre: você pode redistribuí-lo e modificá-lo sob os termos da GNU Affero General Public License, versão 3, conforme publicada pela Free Software Foundation. O texto completo da licença está no arquivo LICENSE, na raiz deste repositório.
+
+Este programa é distribuído na esperança de ser útil, mas SEM NENHUMA GARANTIA, nem mesmo a garantia implícita de COMERCIABILIDADE ou de ADEQUAÇÃO A UM DETERMINADO FIM.
